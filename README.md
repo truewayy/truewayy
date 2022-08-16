@@ -1,8 +1,7 @@
 # 👋LEE YEONG JIN
 <img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-red?style=flat-square&logo=HTML&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-7F52FF?style=flat-square&logo=CSS&logoColor=white"/>
 
-- Name: Lee Yeong Jin
-Hi! I'm a student interested in FrontEnd :)
+- Hi! I'm Lee Yeong Jin interested in FrontEnd :)
 
 ### BOJ
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=abc9455)](https://solved.ac/abc9455)
